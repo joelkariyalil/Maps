@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _setMessage() {
     setState(() {
-      _message = 'Hello, World!';
+      _message = 'Hello! World!';
     });
   }
 
